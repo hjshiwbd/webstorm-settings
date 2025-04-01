@@ -1,0 +1,26 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AutoImportSettings">
+        <option name="autoReloadType" value="SELECTIVE" />
+      </component>
+      <component name="PrettierConfiguration">
+        <option name="myConfigurationMode" value="MANUAL" />
+        <option name="myRunOnSave" value="true" />
+        <option name="myFilesPattern" value="**/*.{js,ts,jsx,tsx,cjs,cts,mjs,mts,vue,astro,json}" />
+      </component>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "settings.javascript.prettier"
+  }
+}]]></component>
+      <component name="VcsDirectoryMappings" defaultProject="true" />
+      <component name="WindowStateProjectService">
+        <state x="461" y="97" key="SettingsEditor" timestamp="1742543999566">
+          <screen x="0" y="0" width="1920" height="1032" />
+        </state>
+        <state x="461" y="97" key="SettingsEditor/0.0.1920.1032" timestamp="1742543999566" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

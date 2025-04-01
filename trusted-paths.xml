@@ -1,0 +1,22 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="D:\git\github\blog" value="true" />
+        <entry key="D:\git\hongxin\fe-basemgt" value="true" />
+        <entry key="D:\git\yuyan\ls-oa-web" value="true" />
+        <entry key="D:\git\yuzhi\basemgt-vue" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="D:\git\yuzhi" />
+        <option value="D:\git\yuyan" />
+        <option value="D:\git\github" />
+        <option value="D:\git\hongxin" />
+      </list>
+    </option>
+  </component>
+</application>
