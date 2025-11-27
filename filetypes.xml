@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="19">
     <extensionMap>
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern=".env.alpha" type="PLAIN_TEXT" />
       <mapping pattern=".env.production-changxin" type="PLAIN_TEXT" />
       <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
     </extensionMap>
