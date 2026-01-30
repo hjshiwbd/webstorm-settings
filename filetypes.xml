@@ -5,6 +5,10 @@
       <mapping pattern=".env.alpha" type="PLAIN_TEXT" />
       <mapping pattern=".env.production-changxin" type="PLAIN_TEXT" />
       <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
+      <removed_mapping ext="uvue" type="Uniapp FileType" />
+      <removed_mapping ext="nvue" type="Uniapp FileType" />
+      <mapping ext="nvue" type="Vue.js" />
+      <mapping ext="uvue" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
